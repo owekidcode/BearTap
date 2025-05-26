@@ -16,3 +16,17 @@ Also, the main goal of the project was an educational idea, I added a separate b
 
 ![image](https://github.com/user-attachments/assets/868178e2-76d4-46d8-bbec-40dc23d7b3f5) ![image](https://github.com/user-attachments/assets/4d9efe77-40d1-4002-a578-89171d0d11a2)
 
+Всего было 6 скриптов, я показал 3 самых важных, первая фотка это простой скрипт со всеми переменными, а так же он еще и отвечает за работу прокачки.
+
+There were 6 scripts in total, I showed the 3 most important ones, the first photo is a simple script with all the variables, and it is also responsible for pumping.
+
+![image](https://github.com/user-attachments/assets/3a123cbb-b95d-45ce-a1e4-27f1162d11d0)
+
+Вторые два это здоровье босса или же progressBar, он самый простой, кликаешь и взаимодействуешь с ним
+
+The second two are the boss's health or the progressBar, it's the simplest, you click and interact with it
+
+![image](https://github.com/user-attachments/assets/329443ef-4dec-4f49-a225-25bf683f35cf)
+![image](https://github.com/user-attachments/assets/3bfc99a8-b50a-4458-8ac3-a45f2b78ca72)
+
+![image](https://github.com/user-attachments/assets/eae152c5-049e-4675-a79c-929ebe3a3d5d)
