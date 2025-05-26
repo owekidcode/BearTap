@@ -29,4 +29,16 @@ The second two are the boss's health or the progressBar, it's the simplest, you 
 ![image](https://github.com/user-attachments/assets/329443ef-4dec-4f49-a225-25bf683f35cf)
 ![image](https://github.com/user-attachments/assets/3bfc99a8-b50a-4458-8ac3-a45f2b78ca72)
 
-![image](https://github.com/user-attachments/assets/eae152c5-049e-4675-a79c-929ebe3a3d5d)
+![image](https://github.com/user-attachments/assets/75ea1d53-3249-4edf-9477-514eca71d0f0)
+
+После тестов и окончания разработки, я думал как мне его опубликовать в Телеграмм, оказалось не тяжело, в Unity меняем платформу на WebGl, у вас появляются js файлы (главное чтобы в скриптах не было ошибок), далее залил код на GitHub и открыл на него доступ, далее зашел в бот @BotFather  и очень легко его загрузил
+
+After testing and finishing development, I thought about how to publish it in Telegram, it turned out not to be difficult, in Unity we change the platform to WebGL, you get js files (the main thing is that there are no errors in the scripts), then I uploaded the code to GitHub and opened access to it, then I went to the bot @BotFather and very I downloaded it easily
+
+![image](https://github.com/user-attachments/assets/95a365fa-fa48-49c6-85f8-2d2bfa455bea)
+
+Пользуйтесь моей первой игрой, я понимаю что она не идеальная, но свою 5 я получил
+
+Use my first game, I understand that it's not perfect, but I got my 5
+
+gg wp
